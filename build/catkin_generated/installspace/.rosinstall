@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/robotdata_ws/install/setup.sh
